@@ -16,7 +16,7 @@ function play_rps()
     print("Scissors...")
     sleep(0.8)
 
-    print("Go!")
+    print("Go!\n")
 
     if comp_move == human_move
         print("Tie, go again1")
@@ -31,5 +31,3 @@ function play_rps()
     end
 
 end
-
-
